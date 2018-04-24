@@ -1,0 +1,6 @@
+C:\Users\NazariiB\Desktop\Credit-Card-Lab2-master\CreditCard\bin\Debug\CreditCard.exe.config
+C:\Users\NazariiB\Desktop\Credit-Card-Lab2-master\CreditCard\bin\Debug\CreditCard.exe
+C:\Users\NazariiB\Desktop\Credit-Card-Lab2-master\CreditCard\bin\Debug\CreditCard.pdb
+C:\Users\NazariiB\Desktop\Credit-Card-Lab2-master\CreditCard\obj\Debug\CreditCard.csproj.CoreCompileInputs.cache
+C:\Users\NazariiB\Desktop\Credit-Card-Lab2-master\CreditCard\obj\Debug\CreditCard.exe
+C:\Users\NazariiB\Desktop\Credit-Card-Lab2-master\CreditCard\obj\Debug\CreditCard.pdb
